@@ -1,0 +1,22 @@
+/*
+.Q1title {
+  font-size: 60;
+  fontWeight: 600;
+  fontFamily: helvetica;
+  border-radius: 100px;
+  text-align: center;
+  margin: auto;
+}
+*/
+.imgscams {
+  display: inline-block;
+  justify-content: center;
+  padding-top: 2.5rem;
+  padding-right: 5.0rem;
+  padding-left: 5.0rem;
+  border-radius: 4px;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 40%;
+  height: 40%;
+}

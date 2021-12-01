@@ -1,0 +1,23 @@
+.link {
+  text-transform: uppercase;
+  font-size: 4vw;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer;
+  color: #fff;
+}
+
+.link:hover {
+  color: #00f;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divider {
+  margin: 10px;
+  width: 100%;
+  background-color: grey;
+}

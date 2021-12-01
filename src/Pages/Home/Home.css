@@ -1,0 +1,23 @@
+.quiz-title {
+  font-size: 64px;
+  font-family: titleFont;
+  margin-bottom: 24px;
+}
+.question-text {
+  font-size: 36px;
+  font-family: questionText;
+  margin-bottom: 0px;
+  width: calc(100% - 5px);
+  line-height: 1.2;
+  color: rgb(243, 243, 243);
+}
+.description {
+  background-color: rgba(15, 5, 46, 0.603);
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 12px 0 0;
+  margin-top: 12px;
+  margin-bottom: 0px;
+  color: #ffffff;
+  font-weight: 500;
+}
