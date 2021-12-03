@@ -7,9 +7,8 @@
 - [Authors](#authors)
   
 ## Description
-This repository has been made for deployment of our web application. If you would like to run our application on your localhost and check our commits please refer to:[Social-Engineering-Quiz](https://github.com/Joey-mi/Social-Engineering-Quiz).
-
-If you would like to check our website live please check:[Social-Engineering-Quiz](https://emiravc.github.io/Social-Engineering-Quiz/)
+This repository has been made for deployment of our web application. If you would like to run our application on your localhost and check our commits please refer to: [Social-Engineering-Quiz](https://github.com/Joey-mi/Social-Engineering-Quiz).
+### If you would like to check our website live please check:[Social-Engineering-Quiz](https://emiravc.github.io/Social-Engineering-Quiz/)
 
 Social Engineering Quiz is an app made with `React` that tests if a user can differentiate between a phishing scenery and a legitimate scenery. This quiz has been done as a Final Project for CPSC329 FALL 2021 Course.
 
