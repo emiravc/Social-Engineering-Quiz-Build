@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Social-Engineering-Quiz/static/css/main.fd8ce09a.chunk.css",
-    "main.js": "/Social-Engineering-Quiz/static/js/main.43c972eb.chunk.js",
-    "main.js.map": "/Social-Engineering-Quiz/static/js/main.43c972eb.chunk.js.map",
+    "main.js": "/Social-Engineering-Quiz/static/js/main.c3b3d908.chunk.js",
+    "main.js.map": "/Social-Engineering-Quiz/static/js/main.c3b3d908.chunk.js.map",
     "runtime-main.js": "/Social-Engineering-Quiz/static/js/runtime-main.11e952ba.js",
     "runtime-main.js.map": "/Social-Engineering-Quiz/static/js/runtime-main.11e952ba.js.map",
     "static/js/2.264e0259.chunk.js": "/Social-Engineering-Quiz/static/js/2.264e0259.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.11e952ba.js",
     "static/js/2.264e0259.chunk.js",
     "static/css/main.fd8ce09a.chunk.css",
-    "static/js/main.43c972eb.chunk.js"
+    "static/js/main.c3b3d908.chunk.js"
   ]
 }
